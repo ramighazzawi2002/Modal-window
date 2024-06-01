@@ -21,4 +21,4 @@ This project demonstrates the creation and usage of a modal window in a web page
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License
